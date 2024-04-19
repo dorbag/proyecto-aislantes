@@ -27,5 +27,5 @@ Fecha de entrega: 20/05/24
 
 ## Lista de tareas
 
--[ ] Definir estructura html
--[ ] Maquetar CSS
+- [ ] Definir estructura html
+- [ ] Maquetar CSS
