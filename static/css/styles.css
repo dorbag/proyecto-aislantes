@@ -167,6 +167,18 @@ main{
 		
 	}
 
+	.queson > div{
+		display: inline-block;
+		width: 100%;
+		padding: 20px;
+		border: 20px;
+	}
+
+	.texto-contenido{
+		margin: 30px;
+	}
+
+
 }
 
 /* Main */
@@ -223,6 +235,20 @@ main{
 	text-align: center;
 	justify-content: center;
 	/* border: 1px solid blue; */
+}
+
+@media screen and (max-width: 700px){
+	.texto-contenido{
+		padding: 20px;
+	}
+
+	.imagen2{
+		width: 80%;
+	}
+
+	.imagen3{
+		width: 80%;
+	}
 }
 
 main p{
