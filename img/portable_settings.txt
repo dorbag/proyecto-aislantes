@@ -1,0 +1,320 @@
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,300
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>
+LastActiveSession<|||>1<|||>Bejerman
+querymemoheight<|||>3<|||>247
+queryhelperswidth<|||>3<|||>329
+MainWinMaximized<|||>3<|||>1
+ColWidths_frmTableEditor.listColumns<|||>1<|||>80,153,154,90,60,65,50,117,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>918,100,80,120
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>434,258,101,151,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,296
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+QueryHistory<|||>3<|||>0
+SQL Attr Comment Foreground<|||>3<|||>8421504
+SQL Attr Comment Background<|||>3<|||>536870911
+SQL Attr Comment Style<|||>3<|||>2
+SQL Attr ConditionalComment Foreground<|||>3<|||>8421504
+SQL Attr ConditionalComment Background<|||>3<|||>536870911
+SQL Attr ConditionalComment Style<|||>3<|||>2
+SQL Attr ConsoleOutput Foreground<|||>3<|||>536870911
+SQL Attr ConsoleOutput Background<|||>3<|||>536870911
+SQL Attr ConsoleOutput Style<|||>3<|||>5
+SQL Attr DataType Foreground<|||>3<|||>128
+SQL Attr DataType Background<|||>3<|||>536870911
+SQL Attr DataType Style<|||>3<|||>1
+SQL Attr DefaultPackages Foreground<|||>3<|||>536870911
+SQL Attr DefaultPackages Background<|||>3<|||>536870911
+SQL Attr DefaultPackages Style<|||>3<|||>1
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>32896
+SQL Attr DelimitedIdentifier Background<|||>3<|||>536870911
+SQL Attr DelimitedIdentifier Style<|||>3<|||>0
+SQL Attr Exception Foreground<|||>3<|||>536870911
+SQL Attr Exception Background<|||>3<|||>536870911
+SQL Attr Exception Style<|||>3<|||>2
+SQL Attr Function Foreground<|||>3<|||>8388608
+SQL Attr Function Background<|||>3<|||>536870911
+SQL Attr Function Style<|||>3<|||>1
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Identifier Background<|||>3<|||>536870911
+SQL Attr Identifier Style<|||>3<|||>0
+SQL Attr Key Foreground<|||>3<|||>16711680
+SQL Attr Key Background<|||>3<|||>536870911
+SQL Attr Key Style<|||>3<|||>1
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr Number Background<|||>3<|||>536870911
+SQL Attr Number Style<|||>3<|||>0
+SQL Attr PLSQL-ReservedWord Foreground<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Background<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Style<|||>3<|||>1
+SQL Attr ProcName Foreground<|||>3<|||>536870911
+SQL Attr ProcName Background<|||>3<|||>536870911
+SQL Attr ProcName Style<|||>3<|||>0
+SQL Attr Space Foreground<|||>3<|||>536870911
+SQL Attr Space Background<|||>3<|||>536870911
+SQL Attr Space Style<|||>3<|||>0
+SQL Attr SQLPlus-Command Foreground<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Background<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Style<|||>3<|||>1
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr String Background<|||>3<|||>536870911
+SQL Attr String Style<|||>3<|||>0
+SQL Attr Symbol Foreground<|||>3<|||>16711680
+SQL Attr Symbol Background<|||>3<|||>536870911
+SQL Attr Symbol Style<|||>3<|||>0
+SQL Attr TableName Foreground<|||>3<|||>16711935
+SQL Attr TableName Background<|||>3<|||>536870911
+SQL Attr TableName Style<|||>3<|||>0
+SQL Attr Variable Foreground<|||>3<|||>8388736
+SQL Attr Variable Background<|||>3<|||>536870911
+SQL Attr Variable Style<|||>3<|||>0
+FieldEditor_Set<|||>3<|||>1
+PromptSaveFileOnTabClose<|||>3<|||>0
+Language<|||>1<|||>en
+QueryHistoryKeeypDays<|||>3<|||>5
+PreferencesWindowWidth<|||>3<|||>825
+RestoreLastUsedDB<|||>3<|||>1
+AllowMultipleInstances<|||>3<|||>0
+FileDialogEncoding_MainForm<|||>3<|||>0
+sqloutheight<|||>3<|||>30
+MainWinWidth<|||>3<|||>993
+MainWinHeight<|||>3<|||>525
+MemoEditorWidth<|||>3<|||>781
+MemoEditorHeight<|||>3<|||>258
+TabsToSpaces<|||>3<|||>1
+FindDialogSearchHistory<|||>1<|||>00002811<{{{><}}}>85x110x55<{{{><}}}>
+DisplayBLOBsAsText<|||>3<|||>0
+SessionManager_WindowLeft<|||>3<|||>373
+SessionManager_WindowTop<|||>3<|||>65
+TableTools_FindText<|||>1<|||>atraso
+TableToolsFindMatchType<|||>3<|||>1
+TableTools_WindowWidth<|||>3<|||>1027
+ColWidths_frmRoutineEditor.listParameters<|||>1<|||>50,272,90,70
+ColsVisible_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColPositions_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColSort_frmRoutineEditor.listParameters<|||>1<|||>-1,0
+TableTools_Datatype<|||>3<|||>3
+DateTimeEditor_CursorPos_Type4<|||>3<|||>3
+dbtreewidth<|||>3<|||>425
+GridExportClpColumnNames<|||>3<|||>1
+GridExportClpAutoInc<|||>3<|||>1
+GridExportRemoveLinebreaks<|||>3<|||>0
+GridExportClpSeparator<|||>1<|||>;
+GridExportClpEncloser<|||>1<|||>
+GridExportClpTerminator<|||>1<|||>\r\n
+GridExportClpNull<|||>1<|||>\N
+GridExportFormat<|||>3<|||>1
+TableTools_WindowHeight<|||>3<|||>521
+TableFilter<|||>1<|||>stock<{{{><}}}>arti<{{{><}}}>SegTiposV<{{{><}}}>DEPO<{{{><}}}>art<{{{><}}}>datos<{{{><}}}>
+GroupTreeObjects<|||>3<|||>1
+SQLFile0<|||>1<|||>C:\Users\wcoiradas\Documents\Adama\SQL\movimientos.sql
+SQLFile1<|||>1<|||>C:\Users\wcoiradas\Documents\HeidiSQL_11.3_64_Portable\Backups\query-tab-2024-01-16_13-25-19-867.sql
+SQLFile2<|||>1<|||>C:\Users\wcoiradas\Documents\HeidiSQL_11.3_64_Portable\Backups\query-tab-2024-01-09_15-51-27-414.sql
+SQLFile3<|||>1<|||>C:\Users\wcoiradas\Documents\HeidiSQL_11.3_64_Portable\Backups\query-tab-2021-10-20_15-45-59-932.sql
+SQLFile4<|||>1<|||>C:\Users\wcoiradas\Documents\Adama\SQL\pedidos_pendientes.sql
+SQLFile5<|||>1<|||>C:\Users\wcoiradas\Documents\Adama\SQL\Stock_actual_por_depo.sql
+SQLFile6<|||>1<|||>C:\Users\wcoiradas\Documents\Adama\SQL\stock_actual.sql
+SQLFile7<|||>1<|||>C:\Users\wcoiradas\Documents\HeidiSQL_11.3_64_Portable\Backups\query-tab-2023-07-11_10-09-31-685.sql
+SQLFile8<|||>1<|||>C:\Users\wcoiradas\Documents\Adama\SQL\articulos.sql
+SQLFile9<|||>1<|||>C:\Users\wcoiradas\Documents\HeidiSQL_11.3_64_Portable\Backups\query-tab-2023-01-04_15-23-18-301.sql
+SQLFile10<|||>1<|||>C:\Users\wcoiradas\Documents\HeidiSQL_11.3_64_Portable\Backups\query-tab-2022-02-25_12-32-53-450.sql
+Servers\Bejerman\SessionCreated<|||>1<|||>2021-04-19 11:25:15
+Servers\Bejerman\Host<|||>1<|||>srv-bejerman
+Servers\Bejerman\WindowsAuth<|||>3<|||>0
+Servers\Bejerman\CleartextPluginEnabled<|||>3<|||>0
+Servers\Bejerman\User<|||>1<|||>sa
+Servers\Bejerman\Password<|||>1<|||>7B693A38393F2C2C8
+Servers\Bejerman\LoginPrompt<|||>3<|||>0
+Servers\Bejerman\Port<|||>1<|||>0
+Servers\Bejerman\NetType<|||>3<|||>3
+Servers\Bejerman\Compressed<|||>3<|||>0
+Servers\Bejerman\LocalTimeZone<|||>3<|||>0
+Servers\Bejerman\QueryTimeout<|||>3<|||>30
+Servers\Bejerman\KeepAlive<|||>3<|||>20
+Servers\Bejerman\FullTableStatus<|||>3<|||>1
+Servers\Bejerman\Databases<|||>1<|||>
+Servers\Bejerman\Library<|||>1<|||>SQLOLEDB
+Servers\Bejerman\Comment<|||>1<|||>
+Servers\Bejerman\StartupScriptFilename<|||>1<|||>
+Servers\Bejerman\TreeBackground<|||>3<|||>536870911
+Servers\Bejerman\SSHtunnelHost<|||>1<|||>
+Servers\Bejerman\SSHtunnelHostPort<|||>3<|||>22
+Servers\Bejerman\SSHtunnelUser<|||>1<|||>
+Servers\Bejerman\SSHtunnelPassword<|||>1<|||>8
+Servers\Bejerman\SSHtunnelTimeout<|||>3<|||>4
+Servers\Bejerman\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Bejerman\SSHtunnelPort<|||>3<|||>3307
+Servers\Bejerman\SSL_Active<|||>3<|||>0
+Servers\Bejerman\SSL_Key<|||>1<|||>
+Servers\Bejerman\SSL_Cert<|||>1<|||>
+Servers\Bejerman\SSL_CA<|||>1<|||>
+Servers\Bejerman\SSL_Cipher<|||>1<|||>
+Servers\Bejerman\IgnoreDatabasePattern<|||>1<|||>
+Servers\Bejerman\ServerVersionFull<|||>1<|||>Microsoft SQL Server 2017 (RTM) - 14.0.1000.169
+Servers\Bejerman\ConnectCount<|||>3<|||>186
+Servers\Bejerman\ServerVersion<|||>3<|||>1400
+Servers\Bejerman\LastConnect<|||>1<|||>2024-03-28 12:55:22
+Servers\Bejerman\lastUsedDB<|||>1<|||>SBDAADM
+Servers\Bejerman\LogFileDdl<|||>3<|||>0
+Servers\Bejerman\LogFileDml<|||>3<|||>0
+Servers\Bejerman\LogFilePath<|||>1<|||>C:\Users\wcoiradas\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Bejerman\SshExecutable<|||>1<|||>plink.exe
+Servers\Bejerman\QueryHistory\1<|||>1<|||>2021-06-07 13:58:06|SBDAADM|110|SELECT<{{{><}}}>	RTrim( SegDetV.sdvart_CodGen ) AS CodBej,<{{{><}}}>	SegDetV.sdv_Desc AS Descripcion,<{{{><}}}>	SegCabV.scvcli_RazSoc AS Cliente,<{{{><}}}>	SegDetV.sdv_FEntrega AS FEntrega,<{{{><}}}>	SegCabV.scv_FIngreso AS FIngreso,<{{{><}}}>	SegTiposV.spvtco_Cod AS cpvt,<{{{><}}}>	SegTiposV.spv_Nro AS #,<{{{><}}}>	SegDetV.sdv_CPendRtUM1 AS Kg,<{{{><}}}>	Vendedor.ven_Desc AS Vendedor<{{{><}}}>FROM<{{{><}}}>	SegDetV<{{{><}}}>	JOIN SegCabV ON SegCabV.scv_ID = SegDetV.sdvscv_ID<{{{><}}}>	JOIN SegTiposV ON SegTiposV.spvscv_ID = SegDetV.sdvscv_ID<{{{><}}}>	JOIN Vendedor ON Vendedor.ven_Cod = SegCabV.scvven_Cod<{{{><}}}>WHERE<{{{><}}}>	SegDetV.sdvart_CodGen IS NOT NULL<{{{><}}}>	AND SegCabV.scv_FEntrega >= DateAdd(yy,-1,GetDate())<{{{><}}}>	AND SegDetV.sdv_CPendRtUM1 > 5<{{{><}}}>	AND (SegTiposV.spvtco_Cod = 'NP' OR SegTiposV.spvtco_Cod = 'NPE')<{{{><}}}>ORDER BY<{{{><}}}>	SegDetV.sdvart_CodGen ASC<{{{><}}}>
+Servers\Bejerman\QueryHistory\2<|||>1<|||>2021-06-07 14:06:01|SBDAADM|16|--SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'dummy'<{{{><}}}>--DROP TABLE dummy<{{{><}}}>SELECT * <{{{><}}}>FROM SegDetV<{{{><}}}>WHERE sdv_ID = 532835
+Servers\Bejerman\QueryHistory\4<|||>1<|||>2021-06-07 14:32:16|SBDAADM|125|SELECT<{{{><}}}>	RTrim( SegDetV.sdvart_CodGen ) AS CodBej,<{{{><}}}>	SegDetV.sdv_Desc AS Descripcion,<{{{><}}}>	SegCabV.scvcli_RazSoc AS Cliente,<{{{><}}}>	SegDetV.sdv_FEntrega AS FEntrega,<{{{><}}}>	SegCabV.scv_FIngreso AS FIngreso,<{{{><}}}>	SegTiposV.spvtco_Cod AS cpvt,<{{{><}}}>	SegTiposV.spv_Nro AS #,<{{{><}}}>	SegDetV.sdv_CPendRtUM1 AS Kg,<{{{><}}}>	SegDetV.sdv_ID,<{{{><}}}>	Vendedor.ven_Desc AS Vendedor<{{{><}}}>FROM<{{{><}}}>	SegDetV<{{{><}}}>	JOIN SegCabV ON SegCabV.scv_ID = SegDetV.sdvscv_ID<{{{><}}}>	JOIN SegTiposV ON SegTiposV.spvscv_ID = SegDetV.sdvscv_ID<{{{><}}}>	JOIN Vendedor ON Vendedor.ven_Cod = SegCabV.scvven_Cod<{{{><}}}>WHERE<{{{><}}}>	SegDetV.sdvart_CodGen IS NOT NULL<{{{><}}}>	AND SegCabV.scv_FEntrega >= DateAdd(yy,-1,GetDate())<{{{><}}}>	AND SegDetV.sdv_CPendRtUM1 > 5<{{{><}}}>	AND (SegTiposV.spvtco_Cod = 'NP' OR SegTiposV.spvtco_Cod = 'NPE')<{{{><}}}>ORDER BY<{{{><}}}>	SegDetV.sdvart_CodGen ASC<{{{><}}}>
+Servers\Bejerman\SBDAADM|Articulos\HiddenColumns<|||>1<|||>art_CodEle1|art_CodEle2|art_CodEle3|artatr_Cod1|artele_Cod1IN|artatr_Cod2|artele_Cod2IN|artatr_Cod3|artele_Cod3IN|art_CodBarras|artart_CodGenAlter|artart_CodEle1Alter|artart_CodEle2Alter|artart_CodEle3Alter|art_CodRedu|artcla_Cod|artele_Desc1|artele_Desc2|artele_Desc3|art_DescAdic|art_DescRedu|artpro_Cod|artda1_Cod|artda2_Cod|art_TipoTasaCpr|arttiv_CodCpr|artngr_CodCpr|art_ImpCredFisc|art_TipoTasaVta|arttiv_CodVta|artngr_CodVta|art_BienUso|art_CtrlStock|art_StockPart|art_StockSerie|art_PesoBruto|art_FactorConv|art_CantEnvase|artmon_CodigoPrBase|artmtca_CodigoPrBase|art_PrBase|artbda_Cod|art_CircStock|art_CircCpra|art_CircProd|art_CircVta|art_InclEnLisP|art_LoteMultiplo|art_LoteMinimo|art_LoteMaximo|artdep_Cod|artagr_Cod|art_TipoCons|artdep_CodCons|art_Clasif|art_Foto|art_RegAlic|artrcf_Cod|art_FecMod|artusu_Codigo|art_ProducSimultaneidad|art_MascaraPart|art_Prorrateo|art_AplLoteAut|art_NotasIngVta
+Servers\Bejerman\SBDAADM|Articulos\RecentFilters\1<|||>1<|||>Articulos.art_Tipo = 6
+Servers\Bejerman\SBDAADM|Articulos\RecentFilters\2<|||>1<|||>Articulos.art_Tipo = 5
+Servers\Bejerman\SBDAADM|Articulos\RecentFilters\3<|||>1<|||>Articulos.art_Tipo = 9
+Servers\Bejerman\SBDAADM|Articulos\RecentFilters\4<|||>1<|||>Articulos.art_Tipo = 8
+Servers\Bejerman\SBDAADM|Articulos\RecentFilters\5<|||>1<|||>Articulos.art_Tipo = 7
+Servers\Bejerman\SBDAADM|Articulos\RecentFilters\6<|||>1<|||>Articulos.art_Tipo = 4
+Servers\Bejerman\SBDAADM|Articulos\RecentFilters\7<|||>1<|||>Articulos.art_Tipo = 3
+Servers\Bejerman\SBDAADM|Articulos\RecentFilters\8<|||>1<|||>Articulos.art_Tipo = 2
+Servers\Bejerman\SBDAADM|Articulos\RecentFilters\9<|||>1<|||>Articulos.art_Tipo = 1
+Servers\Bejerman\SBDAADM|CabMovS\Sort<|||>1<|||>1_cms_ID|0_cms_CodPvt|
+Servers\Bejerman\SBDAADM|MovStock\Sort<|||>1<|||>1_mstcms_ID|
+Servers\Bejerman\SBDAADM|SegCabV\Filter<|||>1<|||>scv_id=449227
+Servers\Bejerman\SBDAADM|SegCabV\RecentFilters\1<|||>1<|||>scv_id=449227
+Servers\Bejerman\SBDAADM|SegCabV\RecentFilters\2<|||>1<|||>scv_id=448159
+Servers\Bejerman\SBDAADM|SegDetV\Filter<|||>1<|||>sdv_ID = 666365
+Servers\Bejerman\SBDAADM|SegDetV\RecentFilters\1<|||>1<|||>sdv_ID = 666365
+Servers\Bejerman\SBDAADM|SegDetV\RecentFilters\2<|||>1<|||>sdv_ID = 652577
+Servers\Bejerman\SBDAADM|SegDetV\RecentFilters\3<|||>1<|||>scv_id = 449227
+Servers\Bejerman\SBDAADM|SegDetV\RecentFilters\4<|||>1<|||>sdv_id = 449227
+Servers\Bejerman\SBDAADM|SegDetV\RecentFilters\5<|||>1<|||>svdscv_id = 449227
+Servers\Bejerman\SBDAADM|SegDetV\RecentFilters\6<|||>1<|||>sdv_id=652577
+Servers\Bejerman\SBDAADM|SegDetV\RecentFilters\7<|||>1<|||>sdv_id=650464
+Servers\Bejerman\SBDAADM|SegDetV\RecentFilters\8<|||>1<|||>sdv_id=630072
+Servers\Bejerman\SBDAADM|SegDetV\RecentFilters\9<|||>1<|||>sdv_id=566930 OR sdv_id=554375
+Servers\Bejerman\SBDAADM|SegDetV\RecentFilters\10<|||>1<|||>sdv_id=566930
+Servers\Bejerman\SBDAADM|SegTiposV\Sort<|||>1<|||>0_spvpvt_CodIN|0_spv_Nro|
+Servers\Bejerman\SBDAADM|SegTiposV\RecentFilters\1<|||>1<|||>spvscv_id = 449227
+Servers\Bejerman\SBDAADM|SegTiposV\RecentFilters\2<|||>1<|||>spv_nro = 84703
+Servers\Bejerman\SBDAADM|SegTiposV\RecentFilters\3<|||>1<|||>spvscv_ID = 385203
+Servers\Bejerman\SBDAADM|StockPar\Sort<|||>1<|||>0_stp_FechVtoIng|
+Servers\Bejerman\SBDAADM|StockPar\Filter<|||>1<|||>stpart_CodGen = 'suc010'
+Servers\Bejerman\SBDAADM|StockPar\RecentFilters\1<|||>1<|||>stpart_CodGen = 'suc010'
+Servers\Bejerman\SBDAADM|StockPar\RecentFilters\2<|||>1<|||>stpart_CodGen = 'tsp010'
+Servers\Bejerman\SBDAADM|StockPar\RecentFilters\3<|||>1<|||>stpart_CodGen = 'stp010'
+Servers\Bejerman\SBDAADM|usu\Sort<|||>1<|||>1_usu_codigo|
+Servers\Labo\SessionCreated<|||>1<|||>2021-04-12 09:59:57
+Servers\Labo\Host<|||>1<|||>srv-sql
+Servers\Labo\WindowsAuth<|||>3<|||>0
+Servers\Labo\CleartextPluginEnabled<|||>3<|||>0
+Servers\Labo\User<|||>1<|||>root
+Servers\Labo\Password<|||>1<|||>54677A7B383F393F6
+Servers\Labo\LoginPrompt<|||>3<|||>0
+Servers\Labo\Port<|||>1<|||>3306
+Servers\Labo\NetType<|||>3<|||>0
+Servers\Labo\Compressed<|||>3<|||>0
+Servers\Labo\LocalTimeZone<|||>3<|||>0
+Servers\Labo\QueryTimeout<|||>3<|||>30
+Servers\Labo\KeepAlive<|||>3<|||>20
+Servers\Labo\FullTableStatus<|||>3<|||>1
+Servers\Labo\Databases<|||>1<|||>
+Servers\Labo\Library<|||>1<|||>libmariadb.dll
+Servers\Labo\Comment<|||>1<|||>
+Servers\Labo\StartupScriptFilename<|||>1<|||>
+Servers\Labo\TreeBackground<|||>3<|||>536870911
+Servers\Labo\SSHtunnelHost<|||>1<|||>
+Servers\Labo\SSHtunnelHostPort<|||>3<|||>22
+Servers\Labo\SSHtunnelUser<|||>1<|||>
+Servers\Labo\SSHtunnelPassword<|||>1<|||>4
+Servers\Labo\SSHtunnelTimeout<|||>3<|||>4
+Servers\Labo\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Labo\SSHtunnelPort<|||>3<|||>3307
+Servers\Labo\SSL_Active<|||>3<|||>0
+Servers\Labo\SSL_Key<|||>1<|||>
+Servers\Labo\SSL_Cert<|||>1<|||>
+Servers\Labo\SSL_CA<|||>1<|||>
+Servers\Labo\SSL_Cipher<|||>1<|||>
+Servers\Labo\IgnoreDatabasePattern<|||>1<|||>
+Servers\Labo\ServerVersionFull<|||>1<|||>10.5.3-MariaDB - mariadb.org binary distribution
+Servers\Labo\ConnectCount<|||>3<|||>25
+Servers\Labo\ServerVersion<|||>3<|||>100503
+Servers\Labo\LastConnect<|||>1<|||>2023-08-11 11:13:24
+Servers\Labo\lastUsedDB<|||>1<|||>access
+Servers\Labo\access|atriblote\Sort<|||>1<|||>1_lote|
+Servers\Labo\access|ingresos\Sort<|||>1<|||>1_lote|
+Servers\Labo\access|ultimo_lote\Sort<|||>1<|||>1_Lote|
+Servers\Labo\access|ultimo_lote_2\Sort<|||>1<|||>1_Lote|
+Servers\Unnamed\SessionCreated<|||>1<|||>2023-10-26 12:31:31
+Servers\Unnamed\Host<|||>1<|||>srv-sql
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>51647778353C363C3
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SshExecutable<|||>1<|||>plink.exe
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>7
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\IgnoreDatabasePattern<|||>1<|||>
+Servers\Unnamed\LogFileDdl<|||>3<|||>0
+Servers\Unnamed\LogFileDml<|||>3<|||>0
+Servers\Unnamed\LogFilePath<|||>1<|||>C:\Users\wcoiradas\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Unnamed\RefusedCount<|||>3<|||>10
+Servers\Unnamed\ServerVersionFull<|||>1<|||>10.5.3-MariaDB - mariadb.org binary distribution
+Servers\Unnamed\ConnectCount<|||>3<|||>3
+Servers\Unnamed\ServerVersion<|||>3<|||>100503
+Servers\Unnamed\LastConnect<|||>1<|||>2023-11-07 11:50:00
