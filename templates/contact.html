@@ -1,16 +1,17 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
-    <meta charset="UTF-8"/>
-    <title>Aislantes CaC G7</title>
-    <link href="./static/css/normalize.css" rel="stylesheet"/>
-    <link href="./static/css/styles.css" rel="stylesheet"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../static/css/normalize.css" rel="stylesheet"/>
+    <link href="../static/css/styles.css" rel="stylesheet"/>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/883a12fdd2.js" crossorigin="anonymous"></script>
-     
+    <title>Formulario de Contacto</title>
+    
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="../static/img/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="../static/img/favicon/apple-icon-60x60.png">
@@ -37,13 +38,13 @@
             <nav id="nav" class="nav1">
                 <div class="contenedor-nav">
                     <div class="logo">
-                        <img src="./static/img/ASH Logo dorado.png" alt="">
+                        <img src="../static/img/ASH Logo dorado.png" alt="">
                     </div>
                     <div class="enlaces" id="enlaces">
-                        <a href="./index.html" id="enlace-inicio" class="btn-header">Inicio</a>
-                        <a href="./templates/quienes_somos.html" id="enlace-somos" class="btn-header">Quienes Somos</a>
-                        <a href="./templates/products.html" id="enlace-producto" class="btn-header">Productos</a>
-                        <a href="./templates/contact.html" id="enlace-contacto" class="btn-header">Contacto</a>
+                        <a href="../index.html" id="enlace-inicio" class="btn-header">Inicio</a>
+                        <a href="./quienes_somos.html" id="enlace-somos" class="btn-header">Quienes Somos</a>
+                        <a href="./products.html" id="enlace-producto" class="btn-header">Productos</a>
+                        <a href="./contact.html" id="enlace-contacto" class="btn-header">Contacto</a>
                     </div>
                     <div class="icono" id="open">
                         <span>&#9776</span>
@@ -56,65 +57,54 @@
                     <h2>DISTRIBUIDOR</h2>
                 </div>
                 <div class="logo-">
-                    <img class="img-logo" src="./static/img/ASH Logo gris.png" alt="">
+                    <img class="img-logo" src="../static/img/ASH Logo gris.png" alt="">
                 </div>
             </div>
-            
         </div>
         <br>
     </header>
-    
-    <!-- Main -->
-    <main>
-        <div class="queson">
-            <div class="encabezado">
-                <h2>¿Que son los Aislantes?</h2>
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2>Formulario de Contacto</h2>
+                <form>
+                    <div class="form-group">
+                        <label for="nombre">Nombre:</label>
+                        <input type="text" class="form-control" id="nombre" placeholder="Ingresa tu nombre">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input type="email" class="form-control" id="email" placeholder="Ingresa tu email">
+                    </div>
+                    <div class="form-group">
+                        <label for="telefono">Teléfono:</label>
+                        <input type="tel" class="form-control" id="telefono" placeholder="Ingresa tu teléfono">
+                    </div>
+                    <div class="form-group">
+                        <label for="empresa">Empresa:</label>
+                        <input type="text" class="form-control" id="empresa" placeholder="Ingresa el nombre de tu empresa">
+                    </div>
+                    <div class="form-group">
+                        <label for="asunto">Asunto:</label>
+                        <input type="text" class="form-control" id="asunto" placeholder="Ingresa el asunto del mensaje">
+                    </div>
+                    <div class="form-group">
+                        <label for="mensaje">Mensaje:</label>
+                        <textarea class="form-control" id="mensaje" rows="4" placeholder="Escribe tu mensaje"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </form>
             </div>
-            <div class="imagen-texto">
-                <div class="imagen-encabezado">
-                    <img class="img-encabezado1" src="./static/img/clases de aislantes 2.jpg" alt="">
-                </div>
-                <div class="texto-contenido">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique facere deleniti molestias voluptates expedita blanditiis minus hic ipsum sequi animi, perspiciatis nihil doloribus rem, dolore at, optio illo delectus. Iusto.</p>
-                    <br>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique facere deleniti molestias voluptates expedita blanditiis minus hic ipsum sequi animi, perspiciatis nihil doloribus rem, dolore at, optio illo delectus. Iusto.</p>
-                </div>
-            </div>
-        </div>
-        <div class="queson clases">
-            <div class="encabezado">
-                <h2>Clases y Tipos de Aislantes</h2>
-            </div>
-            <div class="imagen-texto orden">
-                <div class="imagen-encabezado imagen2">
-                    <img class="img-encabezado1 " src="./static/img/tipos y clases de aislantes.png" alt="">
-                </div>
-                <div class="texto-contenido">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique facere deleniti molestias voluptates expedita blanditiis minus hic ipsum sequi animi, perspiciatis nihil doloribus rem, dolore at, optio illo delectus. Iusto.</p>
-                    <br>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique facere deleniti molestias voluptates expedita blanditiis minus hic ipsum sequi animi, perspiciatis nihil doloribus rem, dolore at, optio illo delectus. Iusto.</p>
-                </div>
-            </div>
-        </div>
-        <div class="queson que-elegir">
-            <div class="encabezado">
-                <h2>¿Que Aislantes elegir?</h2>
-            </div>
-            <div class="imagen-texto">
-                <div class="imagen-encabezado ">
-                    <img class="img-encabezado1 imagen3" src="./static/img/1-Que-aislante-termico-elegir-comparacion.png.png" alt="">
-                </div>
-                <div class="texto-contenido">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique facere deleniti molestias voluptates expedita blanditiis minus hic ipsum sequi animi, perspiciatis nihil doloribus rem, dolore at, optio illo delectus. Iusto.</p>
-                    <br>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique facere deleniti molestias voluptates expedita blanditiis minus hic ipsum sequi animi, perspiciatis nihil doloribus rem, dolore at, optio illo delectus. Iusto.</p>
-                </div>
+            <div class="col">
+                <br>
+                <section>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.022105309411!2d-58.555588024472364!3d-34.67939156149837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3550a432d4f653%3A0x91f3f675c50bf7a2!2sAISLANTES!5e0!3m2!1ses-419!2sar!4v1715923320127!5m2!1ses-419!2sar" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </section>
             </div>
         </div>
-        
-    </main>
-    
-    <!-- Footer -->
+    </div>
+
     <br>
     <footer>
         <div class="container">
